@@ -42,5 +42,5 @@ __
 - [x] Create feature branch
 - [x] Add 3 meaningful commits
 - [x] Create Pull Request
-- [ ] Merge PR into `main` branch
+- [x] Merge PR into `main` branch
 
